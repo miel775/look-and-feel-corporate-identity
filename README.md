@@ -6,10 +6,10 @@ De instructie vind je in: [INSTRUCTIONS](https://github.com/fdnd-task/look-and-f
 
 
 # Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+Bieb in Bloei
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
+In deze repositry wordt er meer met huisstijl gewerkt. Dit om een herkenbaar beeld te maken voor de klant. Bieb in bloei heeft een groene huisstji die staat voor groen en tuinieren. In dit project wordt er een formulier opgesteld met de huisstijl.
 <!-- Voeg een mooie poster visual toe 📸 -->
 <!-- Voeg een link toe naar Github Pages 🌐-->
 
