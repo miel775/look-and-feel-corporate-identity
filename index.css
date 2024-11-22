@@ -1,45 +1,4 @@
-body {
-  /* Background color */
-  --background-color: #fff;
 
-  /* Section colors */
-  --section-color-1: #fff;
-  --section-color-2: #F9EAC3;
-  --section-color-3: #FBC97E;
-  --section-color-4: #F26E21;
-  --section-color-5: #4E7141;
-  --section-color-6: #5F2300;
-  --section-color-7: #000;
-
-  /* Text colors */
-  --text-color-1: #fff;
-  --text-color-2: #F9EAC3;
-  --text-color-3: #F26E21;
-  --text-color-4: #4E7141;
-  --text-color-5: #5F2300;
-  --text-color-6: #000;
-
-  /* Font */
-  --font-text: "Poppins", sans-serif;
-  --font-text-bold: "Poppins-Bold", sans-serif;
-
-  --font-size-small: 1rem;
-  --font-size-medium: 1.2rem;
-  --font-size-large: 4.5rem;
-  --font-size-X-large: 7rem;
-
-  /* Forms and more */
-  --radius-card: 1em;
-  --radius-big-card: 2em;
-  --radius-round: 100%;
-  --shadow: 0px 0px 29px hsla(240, 5%, 41%, 0.2);
-  --dark-shadow: 0px 0px 10px black;
-
-  /* Button styling */
-  --button-height: 3em;
-  --button-width: 6em;
-  --button-opacity: 80%;
-}
 
 h1 {
   font-size: var(--font-size-X-large);
