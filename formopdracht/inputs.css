@@ -1,0 +1,57 @@
+
+body {
+  background: #fff;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  top: 0;
+}
+
+
+label {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.months {
+    background-color: black;
+    border-radius: 1em;
+}
+
+input {
+    border:none;
+    background-color: darkgray;
+    border-radius: 10px;
+    width: 200px;
+    height: 28px;
+    padding: 10px;
+}
+
+input:password {
+    width: 100px;
+}
+
+input:user-invalid {
+    border: 2px solid red;
+    animation: cross 2s ease-in-out infinite alternate;
+  }
+  
+  input:user-invalid + span::before {
+    content: "✖";
+    color: red;
+  }
+
+  input:user-valid + span::before {
+    content: "V";
+    color: rgb(0, 255, 0);
+  }
+
+  @keyframes cross {
+    0% {
+        border: 0px;
+    }
+    100% {
+        border: 5px;
+    }
+  }
+  
